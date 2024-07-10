@@ -12,7 +12,11 @@
   - Urmatorul pas este de a merge la sectiunea de API Keys (https://console.groq.com/keys) si de a genera o cheie de tip API pe care o vom folosi ulterior.
   - Mediul de programare utilizat a fost Visual Studio Code.
   - Odata ce codul a fost importat in VSC, se va deschide un terminal unde se va introduce si rula comanda: pip install groq
+
 ![1](https://github.com/andreiserban1/ClientApp/assets/127241869/a4dcb0cf-3469-41d3-8904-2696728af6d1)
+
+  - d
+
 
 
   
