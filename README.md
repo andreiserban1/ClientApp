@@ -15,7 +15,10 @@
 
 ![1](https://github.com/andreiserban1/ClientApp/assets/127241869/a4dcb0cf-3469-41d3-8904-2696728af6d1)
 
-  - d
+  - Mai departe, in acelasi terminal, se va introduce si rula comanda: "$env:GROQ_API_KEY="{aici se va introduce API Key-ul generat cu Groq}"
+
+![2](https://github.com/andreiserban1/ClientApp/assets/127241869/b1255708-8ed8-4980-af89-4721b650ca34)
+
 
 
 
