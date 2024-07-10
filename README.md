@@ -8,6 +8,6 @@
 
 〰Dependinte necesare / Concepte utilizate〰
 
-  - Pentru inceput, s-a folosit platforma de testare AI numita Groq Playground (https://console.groq.com/playground), pentru a putea oferi AI-ului script-ul necesar. LLM-ul folosit si antrenat a fost Llama3 (llama3-70b-8192). Dupa rularea scriptului, platforma iti pune la dispozitie posibilitatea de a vizualiza codul, folosind butonul "View Code"
+  - Pentru inceput, s-a folosit platforma de testare AI numita Groq Playground (https://console.groq.com/playground), pentru a putea oferi AI-ului, scriptul necesar. LLM-ul folosit si antrenat a fost Llama3 (llama3-70b-8192). Dupa rularea scriptului, platforma iti pune la dispozitie posibilitatea de a vizualiza codul, folosind butonul "View Code"
 
   
