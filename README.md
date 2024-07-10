@@ -8,6 +8,10 @@
 
 〰Dependinte necesare / Concepte utilizate〰
 
-  - Pentru inceput, s-a folosit platforma de testare AI numita Groq Playground (https://console.groq.com/playground), pentru a putea oferi AI-ului, scriptul necesar. LLM-ul folosit si antrenat a fost Llama3 (llama3-70b-8192). Dupa rularea scriptului, platforma iti pune la dispozitie posibilitatea de a vizualiza codul, folosind butonul "View Code"
+  - Pentru inceput, s-a folosit platforma de testare AI numita Groq Playground (https://console.groq.com/playground), pentru a putea oferi AI-ului, scriptul necesar. LLM-ul folosit si antrenat a fost Llama3 (llama3-70b-8192). Dupa rularea scriptului, platforma iti pune la dispozitie posibilitatea de a vizualiza codul, folosind butonul "View Code".
+  - Urmatorul pas este de a merge la sectiunea de API Keys (https://console.groq.com/keys) si de a genera o cheie de tip API pe care o vom folosi ulterior.
+  - Mediul de programare utilizat a fost Visual Studio Code.
+  - Odata ce codul a fost importat in VSC, se va deschide un terminal unde se va introduce si rula comanda: pip install groq
+  
 
   
