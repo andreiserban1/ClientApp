@@ -19,6 +19,15 @@
 
 ![2](https://github.com/andreiserban1/ClientApp/assets/127241869/b1255708-8ed8-4980-af89-4721b650ca34)
 
+〰Utilizarea propriu-zisa a aplicatiei〰
+
+  - Dupa ce toti pasii de mai sus au fost efectuati, se va rula codul, iar clientul va trebui sa introduca de la tastatura cerinta sa, iar AI-ul va incepe sa genereze oferta necesara, intr-un fisier separat numit output.txt.
+
+![3](https://github.com/andreiserban1/ClientApp/assets/127241869/f04460a6-4755-40ff-a3fe-e22be8836325)
+
+![4](https://github.com/andreiserban1/ClientApp/assets/127241869/3f28fb1c-a37a-491f-ae51-dc91ff064ec1)
+
+
 
 
 
